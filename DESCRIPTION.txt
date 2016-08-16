@@ -1,0 +1,17 @@
+Tittle: Feature level fusion of palm print and palm vein using discrete cosine transform (DCT)
+
+Version:0.1
+
+e-mail:- adityagupta2590@gmail.com
+
+Webside:https://sites.google.com/site/adityagupta2590/
+
+Liscense:MIT
+
+Software:MATLAB R2015a
+
+Report:
+Report Issue:
+
+
+		 
